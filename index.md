@@ -2,8 +2,8 @@
 layout: default
 ---
 
+Here is my [graduate shool advice](./grad_advice.html).
 
-I am student at [MIT CSAIL]([./another-page.html](https://www.csail.mit.edu/)).
 
 
 
