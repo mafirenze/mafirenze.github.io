@@ -3,8 +3,9 @@
 layout: default
 ---
 
-## Welcome to another page
+## My advice for graduate school
 
-_yay_
+For undergraduate seniors:
+- Apply for NSF GRFP 
 
 [back](./)
