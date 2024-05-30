@@ -19,4 +19,4 @@ layout: default
   - <a href="https://swe.turazo.com/" target="_blank">Society of Women Engineers (SWE) Mentor Network</a><br>
 </p>
 
-<p><a href="./index.md">back</a></p>
+[back](./index.md)
