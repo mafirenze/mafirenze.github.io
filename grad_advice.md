@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <p><b>For undergraduate seniors:</b><br>
 - Apply for <a href="https://www.nsfgrfp.org/" target="_blank">NSF GRFP</a> in the fall of your senior year. Here are some helpful resources for this: <br>
 -  <a href="https://www.alexhunterlang.com/nsf-fellowship" target="_blank">Alex Lang's website</a> <br>
