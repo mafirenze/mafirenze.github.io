@@ -11,7 +11,7 @@
 - For underrepresented minorities in STEM:<br>
   - check out different school's programs for mentorship by graduate students for students applying for PhD programs, for example <a href="https://eecs-gaap.mit.edu/" target="_blank">MIT GAAP</a><br>
 - For women (for both academic and industry advice):<br>
-  - <a href="https://swe.turazo.com/" target="_blank">Society of Women Engineers (SWE) Mentor Network</a>
+  - <a href="https://swe.turazo.com/" target="_blank">Society of Women Engineers (SWE) Mentor Network</a><br>
 
 
 [back](./)
