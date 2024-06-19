@@ -8,13 +8,13 @@ Previously, I was fortunate to be advised by [Dr. Christine Hendon](https://stru
 
 For anyone interested in applying to graduate school, here is my [advice](./grad_advice.md).
 
-<p style="text-align:center"> Connect with me!   </p>
+<p style="text-align:center"> ** Connect with me! **   </p>
 
 <p style="text-align:center">
                   <a href="https://www.linkedin.com/in/margherita-firenze-321b60198/">LinkedIn</a> &nbsp;/&nbsp;
                   <a href="https://x.com/MargheFirenze">X</a> &nbsp;/&nbsp;
                   <a href="https://scholar.google.com/citations?user=1CERZXMAAAAJ&hl=en&oi=ao">Scholar</a> &nbsp;/&nbsp;
-                  <a> Email: m firenze at mit dot edu </a> 
+                  <a Email: m firenze at mit dot edu </a> 
                 </p>
 
                 
