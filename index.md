@@ -10,7 +10,7 @@ For anyone interested in applying to graduate school, here is my [advice](./grad
 
 **News:** \
 
-June 2024: I'm attending CVPR! My collaborator, Sean Young is presenting [Convolutional SVR](https://github.com/seannz/svr) 
+June 2024: I'm attending CVPR! My collaborator, Sean Young, is presenting [Convolutional SVR](https://github.com/seannz/svr) 
 
 
 
