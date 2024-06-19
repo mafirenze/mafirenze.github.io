@@ -8,8 +8,9 @@ Previously, I was fortunate to be advised by [Dr. Christine Hendon](https://stru
 
 For anyone interested in applying to graduate school, here is my [advice](./grad_advice.md).
 
-**News:**
-June 2024: I'm attending CVPR. My close collobrator is presnting [Convolutional SVR](https://github.com/seannz/svr)
+**News:** \
+
+June 2024: I'm attending CVPR! My collaborator, Sean Young is presenting [Convolutional SVR](https://github.com/seannz/svr) 
 
 
 
