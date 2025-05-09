@@ -21,7 +21,9 @@ For anyone interested in applying to graduate school, here is my [advice](./grad
 <br><br><br><br><br><br><br><br><br>
 **News:** 
 
-June 2024: I'm attending CVPR! My collaborator, Sean Young, is presenting [Convolutional SVR](https://github.com/seannz/svr) 
+May 2025: I'm attending ISMRM 2025 as an author on "3D Fetal Head Pose Estimation from MRI Navigators with Equivariant Networks" 
+
+June 2024: I'm attending CVPR 2024! My collaborator, Sean Young, is presenting [Convolutional SVR](https://github.com/seannz/svr) 
 
 
 
