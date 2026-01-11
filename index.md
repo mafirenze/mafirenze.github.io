@@ -9,7 +9,7 @@ Previously, I was fortunate to be advised by [Dr. Christine Hendon](https://stru
 For anyone interested in applying to graduate school, here is my [advice](./grad_advice.md).
 
 <p style="text-align:center"> <strong>Connect with me!</strong> </p>
-<a href="/assets/resume.pdf" target="_blank">View PDF</a>
+<a href="/assets/resume.pdf" target="_blank">Resume</a>
 
 
 <p style="text-align:center">
@@ -19,7 +19,31 @@ For anyone interested in applying to graduate school, here is my [advice](./grad
                   Email: m firenze at mit dot edu 
                 </p>
 
-                
+<section style="margin-top: 80px;">
+  <h3>Highlighted work</h3>
+
+  <ul style="padding-left: 20px;">
+    <li>
+      <strong>Fast Convolutional Slice-to-Volume Reconstruction for Multi-Stack MRI</strong>
+      <br>
+      <em>Unrolled multi-scale feed-forward network for 2D-to-3D reconstruction.</em>
+      <br>
+      <span>Manuscript on arXiv (coming soon).</span>
+    </li>
+
+    <li style="margin-top: 12px;">
+      <strong>Parallel MRI Reconstruction Methods</strong>
+      <br>
+      Implementations of multiple MRI reconstruction techniques for parallel imaging.
+      <br>
+      <a href="https://github.com/mafirenze/ParallelMRI-Recon/blob/main/README.md" target="_blank" rel="noopener noreferrer">
+        GitHub repository
+      </a>
+    </li>
+  </ul>
+</section>
+
+
 <br><br><br><br><br><br><br><br><br>
 **News:** 
 
