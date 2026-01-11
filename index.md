@@ -9,6 +9,7 @@ Previously, I was fortunate to be advised by [Dr. Christine Hendon](https://stru
 For anyone interested in applying to graduate school, here is my [advice](./grad_advice.md).
 
 <p style="text-align:center"> <strong>Connect with me!</strong> </p>
+<a href="resume_firenze_jan10.pdf" target="_blank">View PDF</a>
 
 <p style="text-align:center">
                   <a href="https://www.linkedin.com/in/margherita-firenze-321b60198/">LinkedIn</a> &nbsp;/&nbsp;
